@@ -4,17 +4,17 @@
 
 		<!-- Basic -->
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<title>Demo Shop 6 | Porto - Responsive HTML5 Template 5.7.1</title>	
+		<title>Demo Shop 6 | Porto - Responsive HTML5 Template 5.7.1</title>
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
 		<meta name="author" content="okler.net">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
+		<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -23,35 +23,35 @@
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
 
 		<!-- Vendor CSS -->
-		<link rel="stylesheet" href="../vendor/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="../vendor/font-awesome/css/font-awesome.min.css">
-		<link rel="stylesheet" href="../vendor/animate/animate.min.css">
-		<link rel="stylesheet" href="../vendor/simple-line-icons/css/simple-line-icons.min.css">
-		<link rel="stylesheet" href="../vendor/owl.carousel/assets/owl.carousel.min.css">
-		<link rel="stylesheet" href="../vendor/owl.carousel/assets/owl.theme.default.min.css">
-		<link rel="stylesheet" href="../vendor/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="/vendor/animate/animate.min.css">
+		<link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.min.css">
+		<link rel="stylesheet" href="/vendor/owl.carousel/assets/owl.carousel.min.css">
+		<link rel="stylesheet" href="/vendor/owl.carousel/assets/owl.theme.default.min.css">
+		<link rel="stylesheet" href="/vendor/magnific-popup/magnific-popup.min.css">
 
 		<!-- Theme CSS -->
-		<link rel="stylesheet" href="../css/theme.css">
-		<link rel="stylesheet" href="../css/theme-elements.css">
-		<link rel="stylesheet" href="../css/theme-blog.css">
-		<link rel="stylesheet" href="../css/theme-shop.css">
+		<link rel="stylesheet" href="/css/theme.css">
+		<link rel="stylesheet" href="/css/theme-elements.css">
+		<link rel="stylesheet" href="/css/theme-blog.css">
+		<link rel="stylesheet" href="/css/theme-shop.css">
 
 		<!-- Current Page CSS -->
-		<link rel="stylesheet" href="../vendor/rs-plugin/css/settings.css">
-		<link rel="stylesheet" href="../vendor/rs-plugin/css/layers.css">
-		<link rel="stylesheet" href="../vendor/rs-plugin/css/navigation.css">
+		<link rel="stylesheet" href="/vendor/rs-plugin/css/settings.css">
+		<link rel="stylesheet" href="/vendor/rs-plugin/css/layers.css">
+		<link rel="stylesheet" href="/vendor/rs-plugin/css/navigation.css">
 
 		<!-- Skin CSS -->
-		<link rel="stylesheet" href="../css/skins/skin-shop-6.css"> 
+		<link rel="stylesheet" href="/css/skins/skin-shop-6.css">
 
-		<!-- Demo CSS -->		<link rel="stylesheet" href="../css/demos/demo-shop-6.css">
+		<!-- Demo CSS -->		<link rel="stylesheet" href="/css/demos/demo-shop-6.css">
 
 		<!-- Theme Custom CSS -->
-		<link rel="stylesheet" href="../css/custom.css">
+		<link rel="stylesheet" href="/css/custom.css">
 
 		<!-- Head Libs -->
-		<script src="../vendor/modernizr/modernizr.min.js"></script>
+		<script src="/vendor/modernizr/modernizr.min.js"></script>
 
 	</head>
 	<body>
@@ -72,11 +72,11 @@
 								</div>
 
 								<div class="header-dropdown lang-dropdown">
-									<a href="#"><img src="../img/demos/shop/en.png" alt="English">English <i class="fa fa-caret-down"></i></a>
+									<a href="#"><img src="/img/demos/shop/en.png" alt="English">English <i class="fa fa-caret-down"></i></a>
 
 									<ul class="header-dropdownmenu">
-										<li><a href="#"><img src="../img/demos/shop/en.png" alt="English">English</a></li>
-										<li><a href="#"><img src="../img/demos/shop/fr.png" alt="French">French</a></li>
+										<li><a href="#"><img src="/img/demos/shop/en.png" alt="English">English</a></li>
+										<li><a href="#"><img src="/img/demos/shop/fr.png" alt="French">French</a></li>
 									</ul>
 								</div>
 
@@ -103,8 +103,8 @@
 										</div>
 									</div>
 								</div>
-							</div>		
-							
+							</div>
+
 							<div class="top-menu-area">
 								<a href="#">Links <i class="fa fa-caret-down"></i></a>
 								<ul class="top-menu">
@@ -123,7 +123,7 @@
 							<div class="header-column">
 								<div class="header-logo">
 									<a href="demo-shop-6.html">
-										<img alt="Porto" width="111" height="51" src="../img/demos/shop/logo-shop-white.png">
+										<img alt="Porto" width="111" height="51" src="/img/demos/shop/logo-shop-white.png">
 									</a>
 								</div>
 							</div>
@@ -155,14 +155,14 @@
 															</a>
 															<figure class="product-image-area">
 																<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-																	<img src="../img/demos/shop/products/thumbs/cart-product1.jpg" alt="Product Name">
+																	<img src="/img/demos/shop/products/thumbs/cart-product1.jpg" alt="Product Name">
 																</a>
 															</figure>
 															<div class="product-details-area">
 																<h2 class="product-name"><a href="demo-shop-6-product-details.html" title="Product Name">Blue Women Top</a></h2>
 
 																<div class="cart-qty-price">
-																	1 X 
+																	1 X
 																	<span class="product-price">$65.00</span>
 																</div>
 															</div>
@@ -173,14 +173,14 @@
 															</a>
 															<figure class="product-image-area">
 																<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-																	<img src="../img/demos/shop/products/thumbs/cart-product2.jpg" alt="Product Name">
+																	<img src="/img/demos/shop/products/thumbs/cart-product2.jpg" alt="Product Name">
 																</a>
 															</figure>
 															<div class="product-details-area">
 																<h2 class="product-name"><a href="demo-shop-6-product-details.html" title="Product Name">Black Utility Top</a></h2>
 
 																<div class="cart-qty-price">
-																	1 X 
+																	1 X
 																	<span class="product-price">$39.00</span>
 																</div>
 															</div>
@@ -199,12 +199,12 @@
 											</div>
 										</div>
 									</div>
-									
+
 									<div class="header-search">
 										<a href="#" class="search-toggle"><i class="fa fa-search"></i></a>
 										<form action="#" method="get">
 											<div class="header-search-wrapper">
-												<input type="text" class="form-control" name="q" id="q" placeholder="Search..." required>
+												<input type="text" class="form-control" name="q" id="q" placeholder="Search." required>
 												<select id="cat" name="cat">
 													<option value="">All Categories</option>
 													<option value="4">Fashion</option>
@@ -246,7 +246,7 @@
 						<li>
 							<span class="mmenu-toggle"></span>
 							<a href="#">Fashion <span class="tip tip-new">New</span></a>
-			
+
 							<ul>
 								<li>
 									<span class="mmenu-toggle"></span>
@@ -269,7 +269,7 @@
 								<li>
 									<span class="mmenu-toggle"></span>
 									<a href="#">Men</a>
-			
+
 									<ul>
 										<li>
 											<a href="#">Accessories</a>
@@ -288,7 +288,7 @@
 								<li>
 									<span class="mmenu-toggle"></span>
 									<a href="#">Jewellery <span class="tip tip-hot">Hot</span></a>
-			
+
 									<ul>
 										<li>
 											<a href="#">Sweaters</a>
@@ -304,7 +304,7 @@
 								<li>
 									<span class="mmenu-toggle"></span>
 									<a href="#">Kids Fashion</a>
-			
+
 									<ul>
 										<li>
 											<a href="#">Casual Shoes</a>
@@ -322,7 +322,7 @@
 						<li>
 							<span class="mmenu-toggle"></span>
 							<a href="#">Pages <span class="tip tip-hot">Hot!</span></a>
-			
+
 							<ul>
 								<li>
 									<span class="mmenu-toggle"></span>
@@ -442,7 +442,7 @@
 					</ul>
 				</div>
 			</div>
-			
+
 			<div id="mobile-menu-overlay"></div>
 
 			<div role="main" class="main">
@@ -482,10 +482,10 @@
 							<div id="revolutionSlider" class="slider rev_slider">
 								<ul>
 									<li data-transition="fade">
-										<img src="../img/demos/shop/slides/shop6/slide1.png"  
+										<img src="/img/demos/shop/slides/shop6/slide1.png"
 											alt="slide bg"
-											data-bgposition="center center" 
-											data-bgfit="cover" 
+											data-bgposition="center center"
+											data-bgfit="cover"
 											data-bgrepeat="no-repeat"
 											class="rev-slidebg">
 
@@ -493,7 +493,7 @@
 											data-x="left" data-hoffset="75"
 											data-y="middle" data-voffset="-40"
 											data-start="500"
-											data-whitespace="nowrap"						 
+											data-whitespace="nowrap"
 											data-transform_in="y:[100%];s:500;"
 											data-transform_out="opacity:0;s:500;"
 											style="z-index: 5; font-size: 60px; text-transform: uppercase; font-weight:600; line-height:1;"
@@ -505,7 +505,7 @@
 											data-start="1000"
 											style="z-index: 5; font-size: 25px; font-weight: 300; line-height:1;"
 											data-transform_in="y:[100%];opacity:0;s:500;">Now starting at <span style="font-weight:400;">$99</span></div>
-										
+
 										<div class="tp-caption"
 											data-x="left" data-hoffset="316"
 											data-y="middle" data-voffset="50"
@@ -517,13 +517,13 @@
 											data-x="right"
 											data-y="top"
 											data-start="1200"
-											data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;" style="z-index: 4;"><img src="../img/demos/shop/slides/shop6/item1.png" alt="Item"></div>
+											data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1000;" style="z-index: 4;"><img src="/img/demos/shop/slides/shop6/item1.png" alt="Item"></div>
 									</li>
 									<li data-transition="fade">
-										<img src="../img/demos/shop/slides/shop6/slide2.jpg"  
+										<img src="/img/demos/shop/slides/shop6/slide2.jpg"
 											alt="slide bg"
-											data-bgposition="center center" 
-											data-bgfit="cover" 
+											data-bgposition="center center"
+											data-bgfit="cover"
 											data-bgrepeat="no-repeat"
 											class="rev-slidebg">
 
@@ -531,7 +531,7 @@
 											data-x="127"
 											data-y="138"
 											data-start="1000"
-											data-transform_in="x:[-300%];opacity:0;s:500;"><img src="../img/slides/slide-title-border.png" alt="Border"></div>
+											data-transform_in="x:[-300%];opacity:0;s:500;"><img src="/img/slides/slide-title-border.png" alt="Border"></div>
 
 										<div class="tp-caption top-label"
 											data-x="177"
@@ -543,13 +543,13 @@
 											data-x="430"
 											data-y="138"
 											data-start="1000"
-											data-transform_in="x:[300%];opacity:0;s:500;"><img src="../img/slides/slide-title-border.png" alt="Border"></div>
+											data-transform_in="x:[300%];opacity:0;s:500;"><img src="/img/slides/slide-title-border.png" alt="Border"></div>
 
 										<div class="tp-caption main-label"
 											data-x="90"
 											data-y="160"
 											data-start="1500"
-											data-whitespace="nowrap"						 
+											data-whitespace="nowrap"
 											data-transform_in="y:[100%];s:500;"
 											data-transform_out="opacity:0;s:500;"
 											data-mask_in="x:0px;y:0px;">eCOMMERCE?</div>
@@ -561,10 +561,10 @@
 											data-transform_in="y:[100%];opacity:0;s:500;">Check out our options and features.</div>
 									</li>
 									<li data-transition="fade">
-										<img src="../img/demos/shop/slides/shop6/slide3.png"  
+										<img src="/img/demos/shop/slides/shop6/slide3.png"
 											alt="slide bg"
-											data-bgposition="center center" 
-											data-bgfit="cover" 
+											data-bgposition="center center"
+											data-bgfit="cover"
 											data-bgrepeat="no-repeat"
 											class="rev-slidebg">
 									</li>
@@ -627,7 +627,7 @@
 													</div>
 
 													<div class="col-md-5 mega-banner-bg">
-														<img src="../img/demos/shop/menu-bg.png" alt="Banner bg">
+														<img src="/img/demos/shop/menu-bg.png" alt="Banner bg">
 													</div>
 												</div>
 											</div>
@@ -657,8 +657,8 @@
 													<div class="col-md-8">
 														<div class="row">
 															<div class="col-md-4">
-																<a href="#" class="cat-img"><img src="../img/demos/shop/cat-tv.png" alt="Category Name"></a>
-																
+																<a href="#" class="cat-img"><img src="/img/demos/shop/cat-tv.png" alt="Category Name"></a>
+
 																<a href="#" class="dropdown-mega-sub-title">Smart Tvs</a>
 																<ul class="dropdown-mega-sub-nav">
 																	<li><a href="#">TV, Audio</a></li>
@@ -670,7 +670,7 @@
 																</ul>
 															</div>
 															<div class="col-md-4">
-																<a href="#" class="cat-img"><img src="../img/demos/shop/cat-camera.png" alt="Category Name"></a>
+																<a href="#" class="cat-img"><img src="/img/demos/shop/cat-camera.png" alt="Category Name"></a>
 																<a href="#" class="dropdown-mega-sub-title">Cameras</a>
 																<ul class="dropdown-mega-sub-nav">
 																	<li><a href="#">Cell Phones &amp; Accessories</a></li>
@@ -682,7 +682,7 @@
 																</ul>
 															</div>
 															<div class="col-md-4">
-																<a href="#" class="cat-img"><img src="../img/demos/shop/cat-game.png" alt="Category Name"></a>
+																<a href="#" class="cat-img"><img src="/img/demos/shop/cat-game.png" alt="Category Name"></a>
 																<a href="#" class="dropdown-mega-sub-title">Games</a>
 																<ul class="dropdown-mega-sub-nav">
 																	<li><a href="#">e-Book Readers</a></li>
@@ -697,7 +697,7 @@
 													</div>
 													<div class="col-md-4">
 														<div class="menu-banner-area">
-															<img src="../img/demos/shop/menu-cat.png" alt="Menu Banner">
+															<img src="/img/demos/shop/menu-cat.png" alt="Menu Banner">
 															<div class="menu-banner-header">
 																<h3>Shop Now <span class="font-weight-bold">3D</span> <span class="font-weight-extra-bold">Tv's</span></h3>
 																<a href="#" class="btn btn-primary">View now <i class="fa fa-caret-right"></i></a>
@@ -797,18 +797,18 @@
 							<div class="row">
 								<div class="col-sm-4">
 									<a href="#" class="banner">
-										<img src="../img/demos/shop/banners/shop6/banner1.jpg" alt="Banner">
+										<img src="/img/demos/shop/banners/shop6/banner1.jpg" alt="Banner">
 									</a>
 								</div>
 								<div class="col-sm-4">
 									<a href="#" class="banner">
-										<img src="../img/demos/shop/banners/shop6/banner2.jpg" alt="Banner">
+										<img src="/img/demos/shop/banners/shop6/banner2.jpg" alt="Banner">
 									</a>
 								</div>
 
 								<div class="col-sm-4">
 									<a href="#" class="banner">
-										<img src="../img/demos/shop/banners/shop6/banner3.jpg" alt="Banner">
+										<img src="/img/demos/shop/banners/shop6/banner3.jpg" alt="Banner">
 									</a>
 								</div>
 							</div>
@@ -823,8 +823,8 @@
 							<div class="product">
 								<figure class="product-image-area">
 									<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-										<img src="../img/demos/shop/products/product1.jpg" alt="Product Name">
-										<img src="../img/demos/shop/products/product1-2.jpg" alt="Product Name" class="product-hover-image">
+										<img src="/img/demos/shop/products/product1.jpg" alt="Product Name">
+										<img src="/img/demos/shop/products/product1-2.jpg" alt="Product Name" class="product-hover-image">
 									</a>
 
 									<a href="#" class="product-quickview">
@@ -865,8 +865,8 @@
 							<div class="product">
 								<figure class="product-image-area">
 									<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-										<img src="../img/demos/shop/products/product2.jpg" alt="Product Name">
-										<img src="../img/demos/shop/products/product2-2.jpg" alt="Product Name" class="product-hover-image">
+										<img src="/img/demos/shop/products/product2.jpg" alt="Product Name">
+										<img src="/img/demos/shop/products/product2-2.jpg" alt="Product Name" class="product-hover-image">
 									</a>
 
 									<a href="#" class="product-quickview">
@@ -906,7 +906,7 @@
 							<div class="product">
 								<figure class="product-image-area">
 									<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-										<img src="../img/demos/shop/products/product3.jpg" alt="Product Name">
+										<img src="/img/demos/shop/products/product3.jpg" alt="Product Name">
 									</a>
 
 									<a href="#" class="product-quickview">
@@ -944,7 +944,7 @@
 							<div class="product">
 								<figure class="product-image-area">
 									<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-										<img src="../img/demos/shop/products/product4.jpg" alt="Product Name">
+										<img src="/img/demos/shop/products/product4.jpg" alt="Product Name">
 									</a>
 
 									<a href="#" class="product-quickview">
@@ -984,7 +984,7 @@
 							<div class="product">
 								<figure class="product-image-area">
 									<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-										<img src="../img/demos/shop/products/product11.jpg" alt="Product Name">
+										<img src="/img/demos/shop/products/product11.jpg" alt="Product Name">
 									</a>
 
 									<a href="#" class="product-quickview">
@@ -1022,7 +1022,7 @@
 							<div class="product">
 								<figure class="product-image-area">
 									<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-										<img src="../img/demos/shop/products/product9.jpg" alt="Product Name">
+										<img src="/img/demos/shop/products/product9.jpg" alt="Product Name">
 									</a>
 
 									<a href="#" class="product-quickview">
@@ -1068,7 +1068,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product11.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product11.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1088,7 +1088,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product12.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product12.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1108,7 +1108,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product13.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product13.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1133,7 +1133,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product10.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product10.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1153,7 +1153,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product8.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product8.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1173,7 +1173,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product9.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product9.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1198,7 +1198,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product12.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product12.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1218,7 +1218,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product13.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product13.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1238,7 +1238,7 @@
 									<div class="product product-sm">
 										<figure class="product-image-area">
 											<a href="demo-shop-6-product-details.html" title="Product Name" class="product-image">
-												<img src="../img/demos/shop/products/shop9/product11.jpg" alt="Product Name">
+												<img src="/img/demos/shop/products/shop9/product11.jpg" alt="Product Name">
 											</a>
 										</figure>
 										<div class="product-details-area">
@@ -1304,10 +1304,10 @@
 
 						<div class="owl-carousel owl-theme" data-plugin-options="{'items':1}">
 							<a href="#">
-								<img class="img-responsive" src="../img/demos/shop/banners/banner1.jpg" alt="Banner">
+								<img class="img-responsive" src="/img/demos/shop/banners/banner1.jpg" alt="Banner">
 							</a>
 							<a href="#">
-								<img class="img-responsive" src="../img/demos/shop/banners/banner2.jpg" alt="Banner">
+								<img class="img-responsive" src="/img/demos/shop/banners/banner2.jpg" alt="Banner">
 							</a>
 						</div>
 
@@ -1333,7 +1333,7 @@
 								<div class="testimonial-arrow-down"></div>
 								<div class="testimonial-author">
 									<div class="testimonial-author-thumbnail img-thumbnail">
-										<img src="../img/clients/client-1.jpg" alt="">
+										<img src="/img/clients/client-1.jpg" alt="">
 									</div>
 									<p><strong>John Smith</strong><span>CEO &amp; Founder - Okler</span></p>
 								</div>
@@ -1345,7 +1345,7 @@
 								<div class="testimonial-arrow-down"></div>
 								<div class="testimonial-author">
 									<div class="testimonial-author-thumbnail img-thumbnail">
-										<img src="../img/clients/client-1.jpg" alt="">
+										<img src="/img/clients/client-1.jpg" alt="">
 									</div>
 									<p><strong>John Smith</strong><span>CEO &amp; Founder - Okler</span></p>
 								</div>
@@ -1357,7 +1357,7 @@
 							<article class="post">
 								<div class="post-image">
 									<div class="img-thumbnail">
-										<img class="img-responsive" src="../img/demos/shop/blog/blog-shop-1.jpg" alt="Post">
+										<img class="img-responsive" src="/img/demos/shop/blog/blog-shop-1.jpg" alt="Post">
 									</div>
 								</div>
 								<div class="post-date">
@@ -1377,7 +1377,7 @@
 							<article class="post">
 								<div class="post-image">
 									<div class="img-thumbnail">
-										<img class="img-responsive" src="../img/demos/shop/blog/blog-shop-2.jpg" alt="Post">
+										<img class="img-responsive" src="/img/demos/shop/blog/blog-shop-2.jpg" alt="Post">
 									</div>
 								</div>
 								<div class="post-date">
@@ -1393,14 +1393,14 @@
 								</div>
 							</article>
 						</div>
-						
+
 					</aside>
 				</div>
 			</div>
-			
-			<div class="newsletter-popup mfp-hide" id="newsletter-popup-form" style="background-image: url(../img/demos/shop/newsletter_popup_bg.jpg)">
+
+			<div class="newsletter-popup mfp-hide" id="newsletter-popup-form" style="background-image: url(/img/demos/shop/newsletter_popup_bg.jpg)">
                 <div class="newsletter-popup-content">
-                	<img src="../img/demos/shop/logo-shop.png" alt="Logo" class="img-responsive center-block">
+                	<img src="/img/demos/shop/logo-shop.png" alt="Logo" class="img-responsive center-block">
                     <h2>BE THE FIRST TO KNOW</h2>
                     <p>Subscribe to the Porto eCommerce newsletter to receive timely updates from your favorite products.</p>
                     <form action="#">
@@ -1430,7 +1430,7 @@
 						<div class="footer-ribbon">
 							<span>Get in Touch</span>
 						</div>
-						
+
 						<div class="col-md-3">
 							<h4>My Account</h4>
 							<ul class="links">
@@ -1505,7 +1505,7 @@
 
 
 								<p>Enter your e-mail Address:</p>
-								<form id="newsletterForm" action="../php/newsletter-subscribe.php" method="POST">
+								<form id="newsletterForm" action="/php/newsletter-subscribe.php" method="POST">
 									<div class="input-group">
 										<input class="form-control" placeholder="Email Address" name="newsletterEmail" id="newsletterEmail" type="text">
 										<span class="input-group-btn">
@@ -1520,14 +1520,14 @@
 				<div class="footer-copyright">
 					<div class="container">
 						<a href="index.html" class="logo">
-							<img alt="Porto Website Template" class="img-responsive" src="../img/demos/shop/logo-footer.png">
+							<img alt="Porto Website Template" class="img-responsive" src="/img/demos/shop/logo-footer.png">
 						</a>
 						<ul class="social-icons">
 							<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 							<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 							<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
 						</ul>
-						<img alt="Payments" src="../img/demos/shop/payments.png" class="footer-payment">
+						<img alt="Payments" src="/img/demos/shop/payments.png" class="footer-payment">
 						<p class="copyright-text">© Copyright 2017. All Rights Reserved.</p>
 					</div>
 				</div>
@@ -1535,41 +1535,41 @@
 		</div>
 
 		<!-- Vendor -->
-		<script src="../vendor/jquery/jquery.min.js"></script>
-		<script src="../vendor/jquery.appear/jquery.appear.min.js"></script>
-		<script src="../vendor/jquery.easing/jquery.easing.min.js"></script>
-		<script src="../vendor/jquery-cookie/jquery-cookie.min.js"></script>
-		<script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
-		<script src="../vendor/common/common.min.js"></script>
-		<script src="../vendor/jquery.validation/jquery.validation.min.js"></script>
-		<script src="../vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
-		<script src="../vendor/jquery.gmap/jquery.gmap.min.js"></script>
-		<script src="../vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
-		<script src="../vendor/isotope/jquery.isotope.min.js"></script>
-		<script src="../vendor/owl.carousel/owl.carousel.min.js"></script>
-		<script src="../vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-		<script src="../vendor/vide/vide.min.js"></script>
-		
+		<script src="/vendor/jquery/jquery.min.js"></script>
+		<script src="/vendor/jquery.appear/jquery.appear.min.js"></script>
+		<script src="/vendor/jquery.easing/jquery.easing.min.js"></script>
+		<script src="/vendor/jquery-cookie/jquery-cookie.min.js"></script>
+		<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+		<script src="/vendor/common/common.min.js"></script>
+		<script src="/vendor/jquery.validation/jquery.validation.min.js"></script>
+		<script src="/vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+		<script src="/vendor/jquery.gmap/jquery.gmap.min.js"></script>
+		<script src="/vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+		<script src="/vendor/isotope/jquery.isotope.min.js"></script>
+		<script src="/vendor/owl.carousel/owl.carousel.min.js"></script>
+		<script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script src="/vendor/vide/vide.min.js"></script>
+
 		<!-- Theme Base, Components and Settings -->
-		<script src="../js/theme.js"></script>
+		<script src="/js/theme.js"></script>
 
 
-		<script src="../vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
-		<script src="../vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+		<script src="/vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+		<script src="/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
 		<!-- Current Page Vendor and Views -->
-		<script src="../js/views/view.contact.js"></script>
+		<script src="/js/views/view.contact.js"></script>
 
 
 
 		<!-- Demo -->
-		<script src="../js/demos/demo-shop-6.js"></script>
-		
+		<script src="/js/demos/demo-shop-6.js"></script>
+
 		<!-- Theme Custom -->
-		<script src="../js/custom.js"></script>
-		
+		<script src="/js/custom.js"></script>
+
 		<!-- Theme Initialization Files -->
-		<script src="../js/theme.init.js"></script>
+		<script src="/js/theme.init.js"></script>
 
 
 
@@ -1582,7 +1582,7 @@
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		
+
 			ga('create', 'UA-12345678-1', 'auto');
 			ga('send', 'pageview');
 		</script>
