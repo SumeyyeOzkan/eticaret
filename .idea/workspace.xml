@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="921a66ef-59ee-4049-a95f-d49891306cd9" name="Default Changelist" comment="" />
+    <list default="true" id="921a66ef-59ee-4049-a95f-d49891306cd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,16 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/yonetim/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="590">
               <caret line="807" column="18" selection-start-line="807" selection-start-column="18" selection-end-line="807" selection-end-column="18" />
-              <folding>
-                <element signature="e#136#707#0#HTML" />
-                <element signature="e#712#12111#0#HTML" />
-                <element signature="e#832#6414#0#HTML" />
-                <element signature="e#12116#16123#0#HTML" />
-                <element signature="e#16128#36952#0#HTML" />
-                <element signature="e#36957#45016#0#HTML" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -35,6 +29,9 @@
       <find>logo</find>
       <find>pop</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -67,32 +64,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="eticaret-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eticaret-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eticaret-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eticaret-master" type="462c0819:PsiDirectoryNode" />
-              <item name="yonetim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eticaret-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eticaret-master" type="462c0819:PsiDirectoryNode" />
-              <item name="yonetim" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
+              <item name="eticaret" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eticaret" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -133,16 +120,17 @@
       <workItem from="1554051905700" duration="430000" />
       <workItem from="1554052458428" duration="2866000" />
       <workItem from="1554115379640" duration="1562000" />
+      <workItem from="1556022529192" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9843000" />
+    <option name="totallyTimeSpent" value="10461000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2577121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -276,16 +264,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yonetim/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="590">
           <caret line="807" column="18" selection-start-line="807" selection-start-column="18" selection-end-line="807" selection-end-column="18" />
-          <folding>
-            <element signature="e#136#707#0#HTML" />
-            <element signature="e#712#12111#0#HTML" />
-            <element signature="e#832#6414#0#HTML" />
-            <element signature="e#12116#16123#0#HTML" />
-            <element signature="e#16128#36952#0#HTML" />
-            <element signature="e#36957#45016#0#HTML" />
-          </folding>
         </state>
       </provider>
     </entry>
